@@ -2,6 +2,8 @@ import json
 import re
 from pathlib import Path
 
+from app.llm import generate_ai_answer
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 CHUNKS_DIR = BASE_DIR / "data" / "chunks"
