@@ -41,6 +41,12 @@
 
 使用者可透過網頁上傳保險 PDF 文件，系統會解析上傳的文件內容，並加入查詢範圍。
 
+### 5.線上展示
+
+本專案已部署於 Render，可透過以下網址體驗：
+
+https://insurance-doc-query.onrender.com/
+
 ## 專案資料夾結構
 
 ```text
