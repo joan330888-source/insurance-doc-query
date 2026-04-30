@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+
+data/app.db
+data/chunks/
+data/uploads/
+
+.env
+ngrok.yml
